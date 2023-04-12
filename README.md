@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Lili Costa 👋
 
-🌱 Atualmente estudando Desenvolvimento Web <br>
-😄 Pronome: ela/dela
+🌱 Atualmente estudando Desenvolvimento  full stack </br>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lili-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
